@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "639771ed6b6e3b4ff95a3295",
+        "title": "Web development",
+        "content": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+        "__v": 0
+    },
+    {
+        "_id": "639772166b6e3b4ff95a3298",
+        "title": "jQuery",
+        "content": "jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License. As of Aug 2022, jQuery is used by 77% of the 10 million most popular websites.",
+        "__v": 0
+    },
+    {
+        "_id": "6397722e6b6e3b4ff95a329a",
+        "title": "Node",
+        "content": "Node.js is an open-source server environment. Node.js is cross-platform and runs on Windows, Linux, Unix, and macOS. Node.js is a back-end JavaScript runtime environment. Node.js runs on the V8 JavaScript Engine and executes JavaScript code outside a web browser.",
+        "__v": 0
+    },
+    {
+        "_id": "6397724b6b6e3b4ff95a329c",
+        "title": "React",
+        "content": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+        "__v": 0
+    },
+    {
+        "_id": "639772626b6e3b4ff95a329e",
+        "title": "Redux",
+        "content": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark.",
+        "__v": 0
+    },
+    {
+        "_id": "639772956b6e3b4ff95a32a0",
+        "title": "REST API",
+        "content": "REST stands for Representational state transfer. It is a software architectural style that describes a uniform interface between physically separate components, often across the Internet in a client-server architecture."
+    },
+]
